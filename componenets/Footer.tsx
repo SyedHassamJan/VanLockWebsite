@@ -97,8 +97,8 @@ export default function Footer() {
       <div className="bg-[#2282C6] py-4 px-6 md:px-12 flex flex-col md:flex-row items-center justify-between text-center md:text-left text-sm">
         <p className="text-white mb-3 md:mb-0">
           Copyright © 2025 <span className="font-semibold">VanLock Security</span> | Designed by{" "}
-          <Link href="https://firnas.tech" target="_blank" className="underline font-semibold hover:text-black transition">
-            Firnas.tech
+          <Link href="" target="_blank" className="underline font-semibold hover:text-black transition">
+            LogiNest
           </Link>{" "}
           | All Rights Reserved
         </p>
